@@ -1,7 +1,8 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## Register no : 212223230031
 ## Name : P.Bharathraj
-## AIM
+## AIM:
+To perform a study on sliding window protocol.
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
