@@ -1,6 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-## Register no : 212223230031
 ## Name : P.Bharathraj
+## Register no : 212223230031
 ## AIM:
 To perform a study on sliding window protocol.
 ## ALGORITHM:
@@ -42,9 +42,11 @@ while True:
 ```
 ## OUPUT
 ### Client:
-![Screenshot 2024-04-14 152703](https://github.com/Bharathraj2006/2b_SLIDING_WINDOW_PROTOCOL/assets/152376845/e9f2a9f7-4563-4c90-82df-fd838a38cfdc)
+![image](https://github.com/Bharathraj2006/2b_SLIDING_WINDOW_PROTOCOL/assets/152376845/e51329d8-3550-4dd3-90c2-68f226588c1e)
+
 ### Server:
-![Screenshot 2024-04-14 152715](https://github.com/Bharathraj2006/2b_SLIDING_WINDOW_PROTOCOL/assets/152376845/f007955b-6440-4158-9b2a-b4419def1bd2)
+![image](https://github.com/Bharathraj2006/2b_SLIDING_WINDOW_PROTOCOL/assets/152376845/bd2b1a0f-bfee-4f3a-a339-28b0fd1e6dda)
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
